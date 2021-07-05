@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src="./assets/home-bg-img.svg" width="100%">
+  <img alt="Rocket.Q" src="./assets/home-bg-img.svg" width="90%">
 </p>
 
 ## 🚀 Tecnologias
