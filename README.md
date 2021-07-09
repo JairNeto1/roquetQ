@@ -1,5 +1,5 @@
 <h1 align="center";>
-  <img alt="Rocket.Q" title="Rocket.Q" src="./assets/logo.svg" width="220px" />
+  <img alt="Rocket.Q" title="Rocket.Q" src="./htmls/assets/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src="./assets/home-bg-img.svg" width="90%">
+  <img alt="Rocket.Q" src="./htmls/assets/home-bg-img.svg" width="90%">
 </p>
 
 ## 🚀 Tecnologias
