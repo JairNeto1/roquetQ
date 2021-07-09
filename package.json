@@ -1,0 +1,24 @@
+{
+  "name": "roquetQ",
+  "version": "1.0.0",
+  "description": "Projeto NlW Rocket seat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairNeto1/roquetQ.git"
+  },
+  "keywords": [],
+  "author": "Jair Neto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JairNeto1/roquetQ/issues"
+  },
+  "homepage": "https://github.com/JairNeto1/roquetQ#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
